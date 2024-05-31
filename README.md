@@ -1,8 +1,8 @@
-# React + Vite
+# VideoX + Youtube
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Created a Youtube clone.
 
-Currently, two official plugins are available:
+Live Site:- 
+- http://videox-youtube.s3-website.ap-south-1.amazonaws.com/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+While Deploying using Amazon S3, Login Functionality In not working. But if you Use `git clone https://github.com/Tanmoydas27/VideoX--Youtube.git` and run `npm install` and `npm install vite@latest .` then all the functionality is Using well.
